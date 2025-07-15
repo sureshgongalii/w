@@ -1,4 +1,4 @@
-# Football Analytics in FIFA Simulation
+# FIFA 20 Football Analytics: Player Performance & Market Value Prediction
 
 A comprehensive data science project analyzing FIFA 20 player data to uncover insights about football player performance, characteristics, and market values using machine learning techniques.
 
